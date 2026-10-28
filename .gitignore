@@ -1,0 +1,7 @@
+# build intermediates
+build/out/
+__pycache__/
+
+# Word lock / temp files
+~$*.docx
+*.tmp
